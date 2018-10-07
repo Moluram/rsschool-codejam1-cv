@@ -41,7 +41,7 @@ header {
 }
 
 body {
-    margin: 0 50px;
+    margin: 0 auto;
     padding: 35px 40px 20px;
     background: #fff;
     min-width: 260px;
