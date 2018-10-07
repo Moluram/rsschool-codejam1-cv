@@ -17,29 +17,6 @@ header {
   width: 100%;
 }
 
-.left {
-  float: right;
-}
-
-.introduction img {
-  margin-right: 15px;
-  padding: 5px;
-  border-radius: 3px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  border: 1px solid #ccc;
-}
-
-.introduction {
-  display: inline-block;
-  padding-bottom: 10px;
-}
-
-.info {
-  float: left;
-  padding-top: 20px;
-  margin-bottom: 12px;
-}
-
 body {
   margin: 0 auto;
   padding: 35px 40px 20px;
@@ -94,4 +71,29 @@ small {
 ul {
   margin-left: 30px;
 }
+
+.left {
+  float: right;
+}
+
+.introduction {
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.introduction img {
+  margin-right: 15px;
+  padding: 5px;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid #ccc;
+}
+
+.info {
+  float: left;
+  padding-top: 20px;
+  margin-bottom: 12px;
+}
+
+
 
